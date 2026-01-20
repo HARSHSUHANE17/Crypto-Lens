@@ -7,7 +7,7 @@ Built with **React**, **Recharts**, and the **CoinGecko API**, Crypto Lens offer
 ---
 
 ## 🌐 Live Demo
-> *(Add your deployed link here)*  
+> *(https://crypto-lens-hs.vercel.app/)*  
 
 
 ---
