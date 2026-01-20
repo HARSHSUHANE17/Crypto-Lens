@@ -6,12 +6,6 @@ Built with **React**, **Recharts**, and the **CoinGecko API**, Crypto Lens offer
 
 ---
 
-## 🌐 Live Demo
-> *(https://crypto-lens-hs.vercel.app/)*  
-
-
----
-
 ## ✨ Features
 
 - 🔍 **Search Cryptocurrencies** by name or symbol
@@ -46,6 +40,6 @@ Built with **React**, **Recharts**, and the **CoinGecko API**, Crypto Lens offer
 - **Git & GitHub**
 
 ---
-
+## Note: CoinGecko has rate limits. Avoid excessive refreshes in development.
 
 
